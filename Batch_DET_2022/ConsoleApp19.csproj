@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Batch_DET_2022.MyClass</StartupObject>
+    <StartupObject>MyClass</StartupObject>
   </PropertyGroup>
 
 </Project>
